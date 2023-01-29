@@ -1,0 +1,10 @@
+{
+  "name": "Daniel",
+  "short_name": "Daniel",
+  "theme_color": "red",
+  "background_color": "#262626",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
